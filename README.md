@@ -41,6 +41,7 @@ make
 ### ▶️ Run the Program  
 ```bash
 ./sort_visualizer
+```
 
 ### 🧹 Clean Up Compiled Files  
 ```bash
