@@ -3,10 +3,10 @@
 This project is a **terminal-based sorting algorithm visualizer**, developed in **C** using the **ncurses** library. It provides a real-time visual representation of different sorting algorithms.
 
 ## 📌 Implemented Sorting Algorithms
-- 🔹 **Quick Sort**
-- 🔹 **Selection Sort**
-- 🔹 **Insertion Sort**
-- 🔹 **Merge Sort**
+-  **Quick Sort**
+-  **Selection Sort**
+-  **Insertion Sort**
+-  **Merge Sort**
 
 ## ⚙️ Requirements
 Before compiling, ensure you have the **ncurses** library installed.
